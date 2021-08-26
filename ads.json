@@ -1,8 +1,4 @@
-{
-  
 
-
-    "AdsController": [
       {
         "NetworkAds": "mix",
         "AdMobId": "pub-3940256099942544",
@@ -16,8 +12,4 @@
         "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
 
       }
-    ]
 
-
-  
-}
