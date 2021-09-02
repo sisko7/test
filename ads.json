@@ -15,7 +15,7 @@
         "bannerPlacementID":"Banner_Android",
             
         "UnityInterstitial":"4147749",
-        "interstitialPlacementID":"Banner_Android",
+        "interstitialPlacementID":"Interstitial_Android",
         "testMode":"true"
 
       }
