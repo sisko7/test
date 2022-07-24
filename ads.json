@@ -1,11 +1,17 @@
 {
-    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "facebookBanner": "",
-    "facebookInterstitial": "",
-    "unityGameId": "4259593",
-    "unityTestMode": true,
-    "activeAds": "unity",
-    "isRandom": false,
-    "interstitialInterval": 2,
+     "NetworkAds": "admob",
+     "AdmobId": "pub-390256009942544",
+    
+     "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+    "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+    "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+    
+     "InterstitialFacebook": "257223125624997_3595839700527809",
+    "BannerFacebook": "257223125624997_3595839700527809",
+    "NativeFacebook": "25722315221997_2649796681798787",
+    
+    "GameId": "3054608",
+    "UnityBanner": "3054608",
+    "testMode": "true",
+   
 }
