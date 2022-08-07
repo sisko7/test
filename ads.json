@@ -1,12 +1,13 @@
 {
-      "NetworkAds": "false",
-    "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-    "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
 
+    "admobBanner": "ca-app-pub-7425149308514605/1325480686",
+    "admobInterstitial": "ca-app-pub-7425149308514605/2066619238",
+    "facebookBanner": "341413640708191_341418440707711",
+    "facebookInterstitial": "341413640708191_341413777374844",
+    "unityGameId": "3054608",
+    "unityTestMode": true,
+    "activeAds": "admob",
+    "isRandom": false,
+    "interstitialInterval": 3
 
-
-
-
-  
-    "interstitialInterval": 2
 }
